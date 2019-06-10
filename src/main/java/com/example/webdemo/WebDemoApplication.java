@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebDemoApplication {
 
     // test commit
+    // test commit2
     public static void main(String[] args) {
         SpringApplication.run(WebDemoApplication.class, args);
     }
